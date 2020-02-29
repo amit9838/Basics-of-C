@@ -1,4 +1,4 @@
-//
+//Defining array length
 
 #include<stdio.h>
 int main()
