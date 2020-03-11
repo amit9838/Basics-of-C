@@ -1,3 +1,4 @@
+//Searching an element in given array
 #include<stdio.h>
 int main()
 {
@@ -11,7 +12,6 @@ int main()
     {
         if(arr[i]==n)
         {   
-            // printf("%d  ",i+1);
             count++;
         }
     }
